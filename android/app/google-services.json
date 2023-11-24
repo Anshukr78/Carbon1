@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "497424975267",
+    "project_id": "carbon-footprint-c7409",
+    "storage_bucket": "carbon-footprint-c7409.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497424975267:android:d001e3ee60f85ada4b8616",
+        "android_client_info": {
+          "package_name": "com.carbon.carbon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "497424975267-1dtmmspjnh2q2jrt2guh6mfqrk5ln5l4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.carbon.carbon",
+            "certificate_hash": "a394466f00f9d8495f06cad4b95826185ef719e7"
+          }
+        },
+        {
+          "client_id": "497424975267-4v1n1j5be20311boqvkrg2esoafskda8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgNf5ApYrkEkJ5zHB83gftGvwcwSLpwz4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "497424975267-4v1n1j5be20311boqvkrg2esoafskda8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497424975267:android:fab54d25db0df1234b8616",
+        "android_client_info": {
+          "package_name": "com.example.carbon_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "497424975267-4v1n1j5be20311boqvkrg2esoafskda8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgNf5ApYrkEkJ5zHB83gftGvwcwSLpwz4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "497424975267-4v1n1j5be20311boqvkrg2esoafskda8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
